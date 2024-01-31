@@ -1,0 +1,58 @@
+const data = [{
+
+id:1,
+image:IMG2,
+title:"Notes App - React",
+github:"https://github.com/Tarun-2003/Notes_react_",
+demo:"https://tarun-2003.github.io/Notes_react_/"
+
+
+},
+{
+id:2,
+image:IMG1,
+title:"Youtube Clone - React(Router)",
+github:"https://github.com/Tarun-2003/youtube_tarun",
+demo:"https://tarun-2003.github.io/youtube_tarun/"
+
+
+},
+{
+id:3,
+image:IMG1,
+title:"To-Do List - React",
+github:"https://github.com/Tarun-2003/To-Do_react",
+demo:"https://tarun-2003.github.io/To-Do_react/"
+
+
+},
+{
+id:4,
+image:IMG1,
+title:"Simon Game - JavaScript",
+github:"https://github.com/Tarun-2003/Simon-Game",
+demo:"https://tarun-2003.github.io/Simon-Game/"
+
+
+},
+{
+id:5,
+image:IMG1,
+title:"DrumKit Music - JavaScript",
+github:"https://github.com/Tarun-2003/Drumkit",
+demo:"https://tarun-2003.github.io/Drumkit/"
+
+
+},
+{
+id:6,
+image:IMG1,
+title:"Dice Reloader - JavaScript",
+github:"https://github.com/Tarun-2003/dice",
+demo:"https://tarun-2003.github.io/dice/"
+
+
+}
+
+
+]
