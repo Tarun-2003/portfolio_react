@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio_react/static/css/main.9c8cc7dc.css",
+    "main.js": "/portfolio_react/static/js/main.b09a8ea9.js",
+    "static/media/me.png": "/portfolio_react/static/media/me.7c14b748c6ebe85764e0.png",
+    "static/media/cv_tarun_protected.pdf": "/portfolio_react/static/media/cv_tarun_protected.6138620ca57d583566d7.pdf",
+    "static/media/youtube.png": "/portfolio_react/static/media/youtube.12818b958a7f67c56fe4.png",
+    "static/media/2020.jpg": "/portfolio_react/static/media/2020.0c888b3e7996bcd08ae8.jpg",
+    "static/media/drumkit.png": "/portfolio_react/static/media/drumkit.a76406e5ce1fdbf84474.png",
+    "static/media/Simon.png": "/portfolio_react/static/media/Simon.e897e4e33d914d73176a.png",
+    "static/media/dice.png": "/portfolio_react/static/media/dice.a8c90676dbf772d51aa0.png",
+    "static/media/todo.png": "/portfolio_react/static/media/todo.dd4b27e556a7857cd064.png",
+    "static/media/notes.png": "/portfolio_react/static/media/notes.a27606cfb4a240e7da94.png",
+    "index.html": "/portfolio_react/index.html",
+    "main.9c8cc7dc.css.map": "/portfolio_react/static/css/main.9c8cc7dc.css.map",
+    "main.b09a8ea9.js.map": "/portfolio_react/static/js/main.b09a8ea9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c8cc7dc.css",
+    "static/js/main.b09a8ea9.js"
+  ]
+}
